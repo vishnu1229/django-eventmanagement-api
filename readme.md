@@ -2,7 +2,7 @@
 The Event Management API is a Django-based web service that allows users to manage events, book tickets, and view event details. It provides endpoints for both admin and regular users to perform various operations related to events and tickets.
 
 # Base URL
-The base URL for accessing the API is: http://localhost:8000
+The base URL for accessing the API is: http://localhost:8000. This is not yet live hosted so try the localhost version
 
 # API Endpoints
 
